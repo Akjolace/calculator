@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10fdea7e-b0cd-4078-b9ea-34d5ec684384" name="Default Changelist" comment="" />
+    <list default="true" id="10fdea7e-b0cd-4078-b9ea-34d5ec684384" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Absolute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Absolute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Negate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Negate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Subtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Subtract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator/app/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/calculator/app/Variable.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cpnFUgoUsCiLYTQfWePMXl9vDA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -64,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591234298131</updated>
       <workItem from="1591234303031" duration="4578000" />
+      <workItem from="1591322104129" duration="115000" />
     </task>
     <servers />
   </component>
